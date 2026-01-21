@@ -1,18 +1,28 @@
 {
   "name": "Little Explorer Store",
   "identifier": "com.littleexplorer.store",
+  "subtitle": "Development and Testing Apps",
+  "description": "Source for Little Explorer quiz application and other student projects.",
+  "iconURL": "https://raw.githubusercontent.com/koykhawkom/little-explorer-repo/main/assets/icon.png",
+  "tintColor": "#6C63FF",
   "apps": [
     {
       "name": "Little Explorer",
       "bundleIdentifier": "com.littleexplorer.app",
-      "developerName": "Your Name",
-      "version": "0.1.0",
-      "versionDate": "2026-01-21",
-      "versionDescription": "Update latest quiz features and UI improvements.",
-      "downloadURL": "https://github.com/koykhawkom/little-explorer-repo/releases/download/v0.1.0/LittleExplorer.ipa",
+      "developerName": "koykhawkom",
+      "subtitle": "Educational Quiz App",
+      "localizedDescription": "A quiz application for students built with React Native.",
       "iconURL": "https://raw.githubusercontent.com/koykhawkom/little-explorer-repo/main/assets/icon.png",
       "tintColor": "#6C63FF",
-      "size": 0
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-01-21T00:00:00+07:00",
+          "size": 22544384,
+          "downloadURL": "https://github.com/koykhawkom/little-explorer-repo/releases/download/v0.1.0/LittleExplorer.ipa",
+          "localizedDescription": "Initial release via GitHub"
+        }
+      ]
     }
   ]
 }
