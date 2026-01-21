@@ -1,0 +1,18 @@
+{
+  "name": "Little Explorer Store",
+  "identifier": "com.littleexplorer.store",
+  "apps": [
+    {
+      "name": "Little Explorer",
+      "bundleIdentifier": "com.littleexplorer.app",
+      "developerName": "Your Name",
+      "version": "0.1.0",
+      "versionDate": "2026-01-21",
+      "versionDescription": "Update latest quiz features and UI improvements.",
+      "downloadURL": "https://github.com/koykhawkom/little-explorer-repo/releases/download/v0.1.0/LittleExplorer.ipa",
+      "iconURL": "https://raw.githubusercontent.com/koykhawkom/little-explorer-repo/main/assets/icon.png",
+      "tintColor": "#6C63FF",
+      "size": 0
+    }
+  ]
+}
