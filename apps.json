@@ -1,7 +1,7 @@
 {
   "name": "Little Explorer Store",
   "identifier": "com.littleexplorer.store",
-  "subtitle": "Development and Testing Apps",
+  "subtitle": "พื้นที่สำหรับแอปพลิเคชัน Little Explorer",
   "description": "Source for Little Explorer quiz application and other student projects.",
   "iconURL": "https://raw.githubusercontent.com/koykhawkom/little-explorer-repo/main/assets/icon.png",
   "tintColor": "#6C63FF",
