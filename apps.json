@@ -16,6 +16,13 @@
       "tintColor": "#6C63FF",
       "versions": [
         {
+          "version": "0.1.1",
+          "date": "2026-02-05T23:00:00+07:00",
+          "size": 22735857,
+          "downloadURL": "https://github.com/koykhawkom/little-explorer-repo/releases/download/v0.1.1/LittleExplorer.ipa",
+          "localizedDescription": "Wallet Enhancements (Auto/Manual Conversion, Password Protection) & Audio Fixes"
+        },
+        {
           "version": "0.1.0",
           "date": "2026-01-21T00:00:00+07:00",
           "size": 22544384,
