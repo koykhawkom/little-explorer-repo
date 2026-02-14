@@ -16,6 +16,13 @@
       "tintColor": "#6C63FF",
       "versions": [
         {
+          "version": "0.1.2",
+          "date": "2026-02-14T18:15:00+07:00",
+          "size": 22750000,
+          "downloadURL": "https://github.com/koykhawkom/little-explorer-repo/releases/download/v0.1.2/LittleExplorer.ipa",
+          "localizedDescription": "AI Enhancements (100 Questions, Larger Prompts) & Firebase Stability Fixes"
+        },
+        {
           "version": "0.1.1",
           "date": "2026-02-05T23:00:00+07:00",
           "size": 22735857,
