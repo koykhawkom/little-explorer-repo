@@ -16,6 +16,13 @@
       "tintColor": "#6C63FF",
       "versions": [
         {
+          "version": "0.1.5",
+          "date": "2026-05-12T14:27:00+07:00",
+          "size": 22750000,
+          "downloadURL": "https://github.com/koykhawkom/little-explorer-repo/releases/download/v0.1.5/LittleExplorer.ipa",
+          "localizedDescription": "Wallet History Integration & Star Request Improvements"
+        },
+        {
           "version": "0.1.4",
           "date": "2026-03-20T00:00:00+07:00",
           "size": 22750000,
